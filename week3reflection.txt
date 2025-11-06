@@ -1,0 +1,9 @@
+This week, I explored the process of creating a React application 
+using Vite, which gave me a deeper understanding of how fast and 
+efficient React development can be. I also learned about props and 
+how they function similarly to parameters in JavaScript functions, 
+allowing data to be passed between components in a flexible way. 
+In addition, I was introduced to the useState hook, which helped 
+me understand how React manages and updates component state 
+dynamically. Altogether, these concepts gave me a solid foundation 
+for building interactive and reusable UI components.
