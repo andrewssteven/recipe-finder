@@ -60,7 +60,7 @@ export const recipes =
     "instructions": "Cook spaghetti until al dente. Meanwhile heat olive oil, sauté onion, garlic, carrot and celery. Add minced beef and brown. Stir in tomato paste, canned tomatoes, wine, oregano. Simmer for 30-40 minutes until thick. Season to taste, serve sauce over spaghetti, garnish with parmesan."
   },
   {
-    "image": "../public/images/Egusi Soup.webp",  
+    "image": "/images/Egusi Soup.webp",  
     "name": "Egusi Soup",
     "shortDescription": "Rich and hearty Nigerian melon-seed soup cooked with spinach, assorted meat and fish.",
     "preparationTime": "1 hr 10 mins",
@@ -79,7 +79,7 @@ export const recipes =
     "instructions": "In hot palm oil sauté onion. Add ground egusi and stir until it begins to roast and form lumps. Add meat, fish, stock and pepper. Simmer for 20 mins. Add spinach/bitterleaf, crayfish and salt. Cook until greens are tender and soup thickens. Serve with pounded yam or fufu."
   },
   {
-    "image": "../public/images/Chocolate Chip Cookies.jpg",  
+    "image": "/images/Chocolate Chip Cookies.jpg",  
     "name": "Chocolate Chip Cookies",
     "shortDescription": "Chewy on the inside, crisp on the outside — loaded with chocolate chips.",
     "preparationTime": "30 mins",
@@ -227,7 +227,7 @@ export const recipes =
     "instructions": "Mix flour, salt, sugar and yeast in bowl. Add milk and knead until smooth. Refrigerate dough. Roll and laminate butter inside dough, fold and roll 3 times with rests. Shape into croissants, proof for ~1 hr. Brush with beaten egg and bake at 200 °C for 15–20 mins until golden."
   },
   {
-    "image": "/public/images/Creamy Chicken Curry.jpg",  
+    "image": "/images/Creamy Chicken Curry.jpg",  
     "name": "Creamy Chicken Curry",
     "shortDescription": "Tender chicken simmered in an aromatic coconut-curry sauce.",
     "preparationTime": "45 mins",
